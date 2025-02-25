@@ -14,8 +14,8 @@ export default function Home() {
         Welcome to Framer-Like Dev
       </motion.h1>
       <Button>Click Me</Button>
+      <p>Lorem ipsum dolor</p>
     </main>
   );
 }
-
 
